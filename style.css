@@ -4,25 +4,12 @@
     align-items: center;
 }
 
-
-#clocks-div{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
-
-#realtime-clock{
-    padding: 20px;    
-    float: left;
-    font-family: 'Roboto', sans-serif;
-}
-
 #realtime{
     font-size: 100px;
+    font-family: 'Roboto', sans-serif;
 }
-
 #stop-clock{
-    float: right;
+    margin-top: 5%;
     font-size: 100px;
     font-family: 'Roboto', sans-serif;
 }
